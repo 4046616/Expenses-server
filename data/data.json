@@ -1,0 +1,78 @@
+{
+    "person": [
+      {
+        "name": "Andriana",
+        "expenses": [
+          {
+            "title": "Trip",
+            "exp": 5.75
+          },
+          {
+            "title": "Trip",
+            "exp": 35
+          },
+          {
+            "title": "Trip",
+            "exp": 12.79
+          }
+        ],
+        "total": 53.54
+      },
+      {
+        "name": "Bao",
+        "expenses": [
+          {
+            "title": "Trip",
+            "exp": 12
+          },
+          {
+            "title": "Trip",
+            "exp": 15
+          },
+          {
+            "title": "Trip",
+            "exp": 23.23
+          }
+        ],
+        "total": 50.230000000000004
+      },
+      {
+        "name": "Camden",
+        "expenses": [
+          {
+            "title": "Trip",
+            "exp": 10
+          },
+          {
+            "title": "Trip",
+            "exp": 20
+          },
+          {
+            "title": "Trip",
+            "exp": 38.41
+          },
+          {
+            "title": "Trip",
+            "exp": 45
+          }
+        ],
+        "total": 113.41
+      }
+    ],
+    "equallyShare": 72.39333333333333,
+    "sum": 217.17999999999998,
+    "owes": [
+      {
+        "name": "Andriana",
+        "owe": 18.85333333333333
+      },
+      {
+        "name": "Bao",
+        "owe": 22.163333333333327
+      },
+      {
+        "name": "Camden",
+        "owe": -41.016666666666666
+      }
+    ]
+  }
