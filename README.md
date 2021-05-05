@@ -1,11 +1,10 @@
-<!-- Run this command in root directory to install dependecies  -->
+###  Run this command in root directory to install dependecies 
 npm install
-<!-- install nodemon globally in your machine.  -->
+###  install nodemon globally in your machine. 
 npm install -g nodemon
-<!-- Run app command  -->
-nodemon app.js
-
-<!-- use this template if you rewrite data.json  -->
+###  Run app command  or without nodemon run with nodejs
+nodemon app.js || node app.js
+###  use this template if you rewrite data.json  
 
 {
   "person": [],
